@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+chromadb
+passlib[bcrypt]
+pydantic
+pydantic-settings
+python-multipart
+langchain-community
+langchain-core
+dashscope
+requests
+pytest
+pytest-mock
+
