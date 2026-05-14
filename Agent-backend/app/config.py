@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     AVATAR_UPLOAD_DIR: Path = BASE_DIR / "uploads" / "avatars"
     BILL_IMAGE_UPLOAD_DIR: Path = BASE_DIR / "uploads" / "bills"
     DASHSCOPE_API_KEY: str | None = None
-    DEEPSEEK_API_KEY: str = "sk-88bae5e4b9364a6fbcb19e6dd73e0568" 
+    DEEPSEEK_API_KEY: str = "sk-xxxxx" 
     DEEPSEEK_BASE_URL: str = "https://api.deepseek.com"
     OPENAI_API_KEY: str | None = None
     OPENAI_BASE_URL: str = "https://api.openai.com/v1"
